@@ -6,22 +6,26 @@ const products = {
                 {
                     name: 'Iphone X',
                     price: 1500,
-                    amount: 33
+                    amount: 33,
+                    src: '../../img/iphone-x.png'
                 },
                 {
                     name: 'Iphone 8',
                     price: 1200,
-                    amount: 30
+                    amount: 30,
+                    src: '../../img/iphone-8.jpg'
                 },
                 {
                     name: 'Iphone 7 Plus',
                     price: 1150,
-                    amount: 22
+                    amount: 22,
+                    src: '../../img/iphone-7-plus.png'
                 },
                 {
                     name: 'Iphone 6S',
                     price: 820,
-                    amount: 17
+                    amount: 17,
+                    src: '../../img/iphone-6-s.png'
                 }
             ]
         },

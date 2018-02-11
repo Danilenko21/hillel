@@ -9,4 +9,6 @@
 
 //= partials/app.js
 
+//= partials/functionAnn.js
+
 })();
